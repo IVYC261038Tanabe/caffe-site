@@ -154,7 +154,7 @@ a {
             rgba(30, 30, 30, 0.42),
             rgba(30, 30, 30, 0.42)
         ),
-        url("img/main.jpg");
+        #1d1d1d;
 
     background-size: cover;
 
@@ -429,9 +429,17 @@ a {
 
 
 .card-content dd {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+
     font-size: 11px;
 
     color: #555555;
+}
+
+.card-content dd span {
+    display: block;
 }
 
 
