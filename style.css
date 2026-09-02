@@ -130,7 +130,7 @@ a {
 
     margin: 6px 0;
 
-    background-color: #333333;
+    background-color: #6f6e6e;
 }
 
 
@@ -152,9 +152,9 @@ a {
     background:
         linear-gradient(
             rgba(30, 30, 30, 0.42),
-            rgba(30, 30, 30, 0.42)
+            rgba(99, 97, 97, 0.42)
         ),
-        #1d1d1d;
+        #a3a2a2;
 
     background-size: cover;
 
